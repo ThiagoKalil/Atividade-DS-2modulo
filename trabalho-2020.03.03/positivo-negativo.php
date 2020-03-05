@@ -11,3 +11,4 @@ if($resultado < 0){
 }else{
    echo "Resultado = ".$resultado. " o resultado é positivo";
 }
+Olá Vitor
